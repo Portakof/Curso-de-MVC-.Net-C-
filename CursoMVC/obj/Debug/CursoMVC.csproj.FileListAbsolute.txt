@@ -1,0 +1,152 @@
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\ApplicationInsights.config
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\csc.exe
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\csc.exe.config
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\csc.rsp
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\csi.exe
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\csi.rsp
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\System.AppContext.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\System.IO.FileSystem.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\vbc.exe
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\vbc.exe.config
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\vbc.rsp
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\CursoMVC.dll.config
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\CursoMVC.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\CursoMVC.pdb
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Antlr3.Runtime.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.AI.Web.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.AI.WindowsServer.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.ApplicationInsights.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Newtonsoft.Json.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.Helpers.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.Mvc.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.Optimization.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.Razor.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.WebPages.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.WebPages.Razor.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\WebGrease.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.Helpers.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.Mvc.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.Optimization.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.Razor.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.WebPages.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\System.Web.WebPages.Razor.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Antlr3.Runtime.pdb
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Newtonsoft.Json.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.ApplicationInsights.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.AI.WindowsServer.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\Microsoft.AI.Web.xml
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\es\System.Web.Helpers.resources.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\es\System.Web.Mvc.resources.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\es\System.Web.Optimization.resources.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\es\System.Web.Razor.resources.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\es\System.Web.WebPages.resources.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\obj\Debug\CursoMVC.csprojResolveAssemblyReference.cache
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\obj\Debug\CursoMVC.dll
+c:\users\terry\documents\visual studio 2017\Projects\CursoMVC\CursoMVC\obj\Debug\CursoMVC.pdb
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\ApplicationInsights.config
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\csc.exe
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\csc.exe.config
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\csc.rsp
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\csi.exe
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\csi.rsp
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\System.AppContext.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\vbc.exe
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\vbc.exe.config
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\vbc.rsp
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\VBCSCompiler.exe
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\CursoMVC.dll.config
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\CursoMVC.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\CursoMVC.pdb
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Antlr3.Runtime.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.AI.Web.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.AI.WindowsServer.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.ApplicationInsights.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Newtonsoft.Json.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.Helpers.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.Mvc.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.Optimization.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.Razor.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.WebPages.Deployment.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.WebPages.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.WebPages.Razor.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\WebGrease.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.Helpers.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.Mvc.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.Optimization.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.Razor.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.WebPages.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.WebPages.Deployment.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\System.Web.WebPages.Razor.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Antlr3.Runtime.pdb
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Newtonsoft.Json.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.ApplicationInsights.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.AI.WindowsServer.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\Microsoft.AI.Web.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\es\System.Web.Helpers.resources.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\es\System.Web.Mvc.resources.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\es\System.Web.Optimization.resources.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\es\System.Web.Razor.resources.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\es\System.Web.WebPages.resources.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\obj\Debug\CursoMVC.csprojResolveAssemblyReference.cache
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\obj\Debug\CursoMVC.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\obj\Debug\CursoMVC.pdb
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\EntityFramework.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\EntityFramework.SqlServer.dll
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\EntityFramework.xml
+D:\01 UDI\02 HTML\06 Curso de MVC .Net C#\CursoMVC\bin\EntityFramework.SqlServer.xml

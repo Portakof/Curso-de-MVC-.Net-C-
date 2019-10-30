@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<!--Este codigo se ejecuta o es llamado desde "Views/Shared/_Layout.cshtml" en el metodo "RenderBody()"-->
+<!--Este es el "RenderBody"-->
+<div class="row">
+    <form id="frm">
+        <div class="col-lg-6 col-lg-offset-3"></div>
+        Usuario
+        <input type="text" name="user" />
+        Password
+        <input type="password" name="password" />
+        <input type="submit" class="btn btn-success" value="Entrar" />
+    </form>
+</div>
+
+
+@section scripts{
+    
+<script>
+    $(document).ready(function () {     //Esta funcion se ejecutara luego de realizar click en el boton "Entrar"
+        
+        $("#frm").submit(function (e) {     //"$frm" se crea un selector de yquery y se sustituye su "submit"
+            e.preventDefault();             //"preventDefault" se evita que se realice el "submit" clasico
+
+            //"Arroba" se usa pa indicar que el codigo es en razor
+            //"Url" es una clase existente en MVC.Net
+            //"Content" Resuelve o direcciona a una url y se la entrega al javascript
+            url = "@Url.Content("~/Access/Enter")"
+            parametros = $(this).serialize();   //"serialize" entrega los atributos que estan listos para la peticion en este caso Usuario, Password
+
+            //se realiza la peticion
+            $.post(url, parametros, function (data) {
+
+                if (data == "1") {  //Se valida y si es "1" la respuesta es exitosa
+                    document.location.href = "@Url.Content("~/")";  //"Url" direcciona al controlador ingresar al index "~/"
+
+                } else {
+                    alert(data);
+                }  
+            })
+
+        })
+    })
+    </script>
+    }
