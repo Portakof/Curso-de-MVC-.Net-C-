@@ -8,6 +8,7 @@ namespace CursoMVC
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
             filters.Add(new HandleErrorAttribute());
+            filters.Add(new Filters.VerifySesion());    //Se activa el filtro creado en la ruta "Filters/VerifySesion"
         }
     }
 }

@@ -34,6 +34,7 @@ namespace CursoMVC.Controllers
                     if (lst.Count() > 0)
                     {
                         //Se crea la sesion y se le agrega los datos de la consulta realizada a la base datos
+                        //"user" es el modelo de la tabla "user" creado por el Entity Framework
                         user OUser = lst.First();
                         Session["User"] = OUser;
                         return Content("1");
