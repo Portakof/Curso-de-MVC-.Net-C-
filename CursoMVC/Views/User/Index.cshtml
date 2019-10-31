@@ -1,0 +1,34 @@
+﻿
+<!--La vista recibe un modelo del la clase "UserTableViewModel"-->
+@model List<CursoMVC.Models.TableViewModels.UserTableViewModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Usuarios</h2>
+<!---->
+<div class="row">
+    <div class="col-lg-12">
+        <table class="table table-bordered" >       <!--Se crea una tabla para mostrar los valores-->
+            <tr>
+                <th>#</th>
+                <th>Email</th>
+                <th>Edad</th>
+            </tr>
+
+            <!--"foreach" recorre cada uno de los elemento que trae el modelo recibido por la vista, estos enviados por el "AccessController"-->
+            @foreach (var oElement in Model)    
+            {
+                <tr>                        <!--Se imprimen los valores-->
+                    <th>@oElement.Id</th>
+                    <th>@oElement.Email</th>
+                    <th>@oElement.Edad</th>
+                </tr>
+            }
+
+        </table>
+    </div>
+
+
+</div>
+

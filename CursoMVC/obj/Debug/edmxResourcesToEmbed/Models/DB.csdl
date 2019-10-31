@@ -25,6 +25,7 @@
     <Property Name="password" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
     <Property Name="idState" Type="Int32" />
     <NavigationProperty Name="cstate" Relationship="cursomvcModel.FK_user_cstate" FromRole="user" ToRole="cstate" />
+    <Property Name="edad" Type="Int32" />
   </EntityType>
   <Association Name="FK_user_cstate">
     <End Type="cursomvcModel.cstate" Role="cstate" Multiplicity="0..1" />
