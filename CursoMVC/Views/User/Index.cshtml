@@ -8,6 +8,13 @@
 <h2>Usuarios</h2>
 <!---->
 <div class="row">
+    <div class="col-md-12">
+        <!--Se crea el boton el cual se encarga de direccionar al controller especificado en este caso "UserController" metodo "Add"-->
+        <input type="button" class="btn btn-primary" onclick="document.location.href='@Url.Content("~/User/Add")'" value="Nuevo" />
+    </div>
+ </div>
+<br />
+<div class="row">
     <div class="col-lg-12">
         <table class="table table-bordered" >       <!--Se crea una tabla para mostrar los valores-->
             <tr>
