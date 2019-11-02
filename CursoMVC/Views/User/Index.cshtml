@@ -21,6 +21,7 @@
                 <th>#</th>
                 <th>Email</th>
                 <th>Edad</th>
+                <th></th>   <!--"th" se usa para agregar columnas a las tablas-->
             </tr>
 
             <!--"foreach" recorre cada uno de los elemento que trae el modelo recibido por la vista, estos enviados por el "AccessController"-->
@@ -30,12 +31,41 @@
                     <th>@oElement.Id</th>
                     <th>@oElement.Email</th>
                     <th>@oElement.Edad</th>
+                    <td>
+                        <!--Se agrega los botones "Eliminar y Editar"-->                        
+                        <!--Url.Content("~/User/Edit/" redirecciona al controler "User" metodo "Edit"-->
+                        <!--La funcion del boton "Eliminar" se realiza en "Ajax"-->
+                        <!---->
+                        <input onclick="jsDelete(@oElement.Id);" type="button" class="btn btn-danger" value="Eliminar"/>
+                        <input onclick="document.location.href='@Url.Content("~/User/Edit/" + oElement.Id)'" type="button" class="btn btn-success" value="Editar" />
+                    </td>
                 </tr>
             }
-
         </table>
     </div>
-
-
 </div>
 
+<script>
+    function jsDelete(id) {
+
+        //Este if muestra una alerta en la pagina al presionar "aceptar" en el mensaje se ejcuta el codigo
+        if (confirm("Estas seguro de eliminarlooooooooooo")) {  
+
+            //"Url.Content" crea toda la cadena de la direccion a la cual se realizara la peticion tipo post
+            url = "@Url.Content("~/User/Delete")" + "/" + id;   
+
+            //Se realiza una peticion tipo "post" al Usercontroller metodo Delete y adicional envia el "Id" del registro a eliminar
+            //En "url" se recibe el valor devuelto por el metodo "Delete" en este caso "1"
+            $.post(url, function (data) {
+
+                //Si es uno quiere decir que se borro el registro por lo cual se redirecciona al "UserController" metodo "Index" 
+                //que es donde se actualizara la vista
+                if (data == "1") {  
+                    document.location.href = "@Url.Content("~/User/")"
+                } else {
+                    alert("Ocurrio un error :(");
+                }
+            })
+        }
+    }
+</script>
