@@ -13,7 +13,7 @@
         <!--"Add" es el metodo a direccionar y se usa "FormMethod.Post" especificando cual de los dos metodos debe ser-->
         @using (Html.BeginForm("Add", "User", FormMethod.Post, new { role = "form", @class = ""}))
         {
-            @Html.AntiForgeryToken()    //Es para seguridad, crea un token interno para bloquear peticiones externas
+            @Html.AntiForgeryToken()    //Es para seguridad, Bloquea el "form" y crea un token interno para bloquear peticiones externas
 
             @Html.ValidationMessage( "error", new { @class = "text-danger" })   //Muestra informacion de algun error
 

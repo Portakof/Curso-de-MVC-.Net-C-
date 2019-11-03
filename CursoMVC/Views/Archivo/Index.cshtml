@@ -1,0 +1,59 @@
+﻿
+<!--//De esta manera la vista recibe un modelo en este caso el creado "ArchivoViewModels"-->
+@model CursoMVC.Models.ViewModels.ArchivoViewModels     
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@if(ViewBag.Message != null)    //Se valida y se imprime el mensaje enviado desde el metodo "Save" cabe recordar que se esta en el metodo "Index"
+{
+    <div class="alert alert-success" role="alert">
+        @ViewBag.Message
+    </div> 
+}
+
+<!---->
+<!--"BeginForm" es otra forma de crear un formulario, parecido como lo hace la etiqueta "from" la diferencia es el estilo-->
+<!--"Archivo" direcciona al controller y "Save" direcciona al metodo -->
+<!--"Post" protocolo por el cual se realizara la solicitud o se envian las cosas al controller-->
+<!--"multipart/form-data" sin esto no se pueden enviar loas archivos-->
+@using (Html.BeginForm("Save", "Archivo", FormMethod.Post, new { enctype = "multipart/form-data"}))
+{
+    @Html.AntiForgeryToken();    //Es para seguridad, Bloquea el "form" y crea un token interno para bloquear peticiones externas
+
+    <div class="row">
+        <!--"col-md-6" crea una columna que mide 6, en Boostrap las columnas miden 12, lo cual sera media columna-->
+        <!--"col-lg-offset-3" esto pone 3 columnas a la derecha para que paresca a medias-->
+        <div class="col-md-6 col-lg-offset-3">
+
+            <div class="form-group">
+                @Html.LabelFor(d => d.Archivo1)
+                <!--"form-control" es una clase de Boostrap para los controles-->
+                <!--"type = "file"" enlazamos el TextBoxFor con el tipo de dato "HttpPostedFileBase" que manejamos en "ArchivoViewModels.cs" -->
+                <!--"accept = ".png"" en la vista cuando se abre el cuadro de dialogo "abrir" solo apareceran archivos con extension ".png"-->
+                <!--"ValidationMessageFor" Cuando hay un error con los "DataAnnotations" aparece el mensaje en la vista en color rojo por la clase "text-danger" debajo del "TextBoxFor"-->
+
+                @Html.TextBoxFor(d => d.Archivo1, new { @class = "form-control", type = "file", accept = ".png" })
+                @Html.ValidationMessageFor(d => d.Archivo1, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(d => d.Archivo2)
+                @Html.TextBoxFor(d => d.Archivo2, new { @class = "form-control", type = "file", accept = ".png" })
+                @Html.ValidationMessageFor(d => d.Archivo2, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(d => d.Cadena)
+                @Html.TextBoxFor(d => d.Cadena, new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Cadena, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-group" style="text-align:right;">
+                <!--"submit" cuando se presione el boton "Guardar" se realizara la peticion al controlador con los parametros
+                    que estan en la pare de arriba en "BeginForm"-->
+                <input type="submit" class="btn btn-success" value="Guardar" />
+            </div>
+
+        </div>
+    </div>    
+}
